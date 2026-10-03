@@ -1,4 +1,4 @@
-# Java Banking System — Level 1 Upgrade
+# Java Banking System
 
 A console-based Java OOP banking application covering the Level 1 feature set.
 
